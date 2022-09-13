@@ -1,0 +1,102 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "No carrier",
+      "playStoreClientVersion": 83061610,
+      "manufacturer": "samsung",
+      "modelName": "SM-A127F",
+      "deviceName": "a12s",
+      "productName": "a12snnxx",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "3855978496",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "buildFingerprint": "samsung/a12snnxx/a12s:11/RP1A.200720.012/A127FXXU5AVC5:user/release-keys",
+      "androidSdkVersion": "30"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "STC",
+      "manufacturer": "samsung",
+      "modelName": "SM-A127F",
+      "deviceName": "a12s",
+      "productName": "a12snnxx",
+      "retailBrand": "samsung",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "androidSdkVersion": "30"
+    },
+    "deviceRegistrationTime": "2022-03-30T02:03:10.725Z",
+    "userAddedOnDeviceTime": "2022-03-30T02:03:10.725Z",
+    "lastTimeDeviceActive": "2022-06-14T17:51:55.738175Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Ooredoo",
+      "playStoreClientVersion": 83103910,
+      "manufacturer": "LENOVO",
+      "modelName": "Lenovo A6010",
+      "deviceName": "A6010",
+      "productName": "A6010",
+      "retailBrand": "Lenovo",
+      "totalMemoryBytes": "1985077248",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "buildFingerprint": "Lenovo/A6010/A6010:5.0.2/LRX22G/A6010_S045_170622_16G_ROW:user/release-keys",
+      "androidSdkVersion": "21"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Ooredoo",
+      "manufacturer": "LENOVO",
+      "modelName": "Lenovo A6010",
+      "deviceName": "A6010",
+      "productName": "A6010",
+      "retailBrand": "Lenovo",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "androidSdkVersion": "21"
+    },
+    "deviceRegistrationTime": "2020-06-22T04:16:11.446Z",
+    "userAddedOnDeviceTime": "2020-06-22T04:16:11.446Z",
+    "lastTimeDeviceActive": "2022-06-21T21:32:04.145679Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "No carrier",
+      "playStoreClientVersion": 83045708,
+      "manufacturer": "Xiaomi",
+      "modelName": "MIBOX4",
+      "deviceName": "oneday",
+      "productName": "oneday",
+      "retailBrand": "Xiaomi",
+      "totalMemoryBytes": "2083909632",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "buildFingerprint": "Xiaomi/oneday/oneday:9/PI/3595:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "No carrier",
+      "manufacturer": "Xiaomi",
+      "modelName": "MIBOX4",
+      "deviceName": "oneday",
+      "productName": "oneday",
+      "retailBrand": "Xiaomi",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "KW",
+      "userLocale": "en_US",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2020-10-26T14:02:32.763Z",
+    "userAddedOnDeviceTime": "2020-10-26T14:02:32.763Z",
+    "lastTimeDeviceActive": "2022-05-24T12:21:11.723455Z"
+  }
+}]

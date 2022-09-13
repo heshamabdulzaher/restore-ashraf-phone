@@ -1,0 +1,17 @@
+{
+  "awards": [
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/profile/created-profile"
+        },
+        "title": "Created Google Developer Profile",
+        "description": "Created Google Developer Profile",
+        "imageUrl": "/profile/badges/profile/created-profile/created_profile.svg",
+        "imagePath": "developers.google.com/profile/badges/profile/created-profile/created_profile.svg"
+      },
+      "createTime": "2022-08-28T23:13:57.213581Z"
+    }
+  ]
+}

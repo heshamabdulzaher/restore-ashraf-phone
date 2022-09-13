@@ -1,0 +1,13 @@
+{
+  "user": {
+    "name": "Jana Ashraf",
+    "email": "janashraf2015@gmail.com",
+    "user_type": "Human"
+  },
+  "membership_info": [
+    {
+      "group_id": "Space AAAAXpEiW9Q",
+      "membership_state": "MEMBER_JOINED"
+    }
+  ]
+}

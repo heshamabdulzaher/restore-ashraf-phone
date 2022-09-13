@@ -1,0 +1,92 @@
+{
+  "createdTime": "2019-08-24T16:19:32.673Z",
+  "modifiedTime": "2022-08-28T08:41:58.380Z",
+  "historyEnabled": true,
+  "historyDeletionTime": "2022-08-26T17:32:47.221Z",
+  "deviceSettings": [{
+    "deviceTag": -1565519758,
+    "reportingEnabled": false,
+    "legalCountryCode": "eg",
+    "devicePrettyName": "Archpad 6th gen.",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-08-26T23:52:24.548Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-08-26T23:52:24.548Z"
+    },
+    "iosVersion": "15.6.1",
+    "deviceSpec": {
+      "device": "iPad7,5"
+    }
+  }, {
+    "deviceTag": 879591484,
+    "reportingEnabled": false,
+    "legalCountryCode": "kw",
+    "devicePrettyName": "iPad",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-06-12T22:52:14.993Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-06-12T22:52:14.993Z"
+    },
+    "iosVersion": "15.6",
+    "deviceSpec": {
+      "device": "iPad13,8"
+    }
+  }, {
+    "deviceTag": -374870325,
+    "reportingEnabled": false,
+    "legalCountryCode": "kw",
+    "devicePrettyName": "‏iPhone ‏Jana",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-04-14T01:15:45.500Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-04-14T01:15:45.500Z"
+    },
+    "iosVersion": "15.3.1",
+    "deviceSpec": {
+      "device": "iPhone8,1"
+    }
+  }, {
+    "deviceTag": -713191816,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A127F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2022-03-30T02:03:14.454Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-03-30T02:03:14.454Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a12snnxx",
+      "device": "a12s",
+      "model": "SM-A127F",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -1352119779,
+    "reportingEnabled": false,
+    "legalCountryCode": "kw",
+    "devicePrettyName": "Lenovo A6010",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2020-06-22T04:16:08.879Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2020-06-22T04:16:08.879Z"
+    },
+    "androidOsLevel": 21,
+    "deviceSpec": {
+      "manufacturer": "LENOVO",
+      "brand": "Lenovo",
+      "product": "A6010",
+      "device": "A6010",
+      "model": "Lenovo A6010",
+      "isLowRam": false
+    }
+  }],
+  "latestLocationHistorySettingChange": {
+    "historyEnabledModificationTime": "2022-08-28T08:41:58.380Z"
+  },
+  "retentionWindowDays": 2147483647,
+  "hasReportedLocations": false,
+  "hasSetRetention": true
+}

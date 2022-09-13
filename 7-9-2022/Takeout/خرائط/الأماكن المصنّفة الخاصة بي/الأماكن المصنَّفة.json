@@ -1,0 +1,18 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          180.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "<iframe src=\"https://www.google.com/m..."
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,130 @@
+{
+    "Home App Data": [
+        {
+            "full_structures": [{
+                        "owner_emails": ["janashraf2015@gmail.com"],
+                        "owner_create_times": [{
+                                    "value": {
+                                                "seconds": 1626175653,
+                                                "nanos": 227000000
+                                    },
+                                    "key": "janashraf2015@gmail.com"
+                        }],
+                        "structure": {
+                                    "create_time": {
+                                                "seconds": 1626175656,
+                                                "nanos": 724882000
+                                    },
+                                    "personalized_nicknames": ["Home"]
+                        }
+            }],
+            "unassigned_devices": [
+                        {
+                                    "state_changes": [{
+                                                "state_commit_time": {
+                                                            "seconds": 1627507385,
+                                                            "nanos": 663052000
+                                                },
+                                                "state_change_time": {},
+                                                "state": {"media": {
+                                                            "duration_millis": 0,
+                                                            "application_name": "Backdrop",
+                                                            "content_id": "",
+                                                            "artist": "",
+                                                            "playback_state": "UNKNOWN_PLAYBACK_STATE",
+                                                            "subtitle": "",
+                                                            "played_time_millis": 0,
+                                                            "title": ""
+                                                }}
+                                    }],
+                                    "device_info": {
+                                                "device_model_id": "Xiaomi.oneday.MIBOX4",
+                                                "model": "MIBOX4"
+                                    },
+                                    "create_time": {
+                                                "seconds": 1626175663,
+                                                "nanos": 423107000
+                                    },
+                                    "creator_emails": ["janashraf2015@gmail.com"],
+                                    "agent_device_names": {
+                                                "default_names": ["Android TV"],
+                                                "name": "MIBOX4"
+                                    },
+                                    "type": "action.devices.types.TV",
+                                    "supported_traits": [
+                                                "action.devices.traits.TransportControl",
+                                                "action.devices.traits.Assistant",
+                                                "action.devices.traits.MediaInitiation",
+                                                "action.devices.traits.OnOff",
+                                                "action.devices.traits.Toggles",
+                                                "action.devices.traits.AppSelector",
+                                                "action.devices.traits.InputSelector",
+                                                "action.devices.traits.Volume",
+                                                "action.devices.traits.RemoteDucking",
+                                                "action.devices.traits.Cast"
+                                    ],
+                                    "user_defined_name": "MIBOX4"
+                        },
+                        {
+                                    "state_changes": [
+                                                {
+                                                            "state_commit_time": {
+                                                                        "seconds": 1653413950,
+                                                                        "nanos": 994583000
+                                                            },
+                                                            "state_change_time": {},
+                                                            "state": {"media": {
+                                                                        "duration_millis": 5949561,
+                                                                        "application_name": "YouTube",
+                                                                        "content_id": "",
+                                                                        "artist": "",
+                                                                        "playback_state": "PLAYING",
+                                                                        "subtitle": "",
+                                                                        "played_time_millis": 100,
+                                                                        "title": "\"عرض اول و حصريا فيلم \"تصبح علي خير😴\" بطوله النجم \"تامر حسني\" و \"دره\" و \"مي عمر\" و نور",
+                                                                        "activity_state": "ACTIVE"
+                                                            }}
+                                                },
+                                                {
+                                                            "state_commit_time": {
+                                                                        "seconds": 1653413950,
+                                                                        "nanos": 994583000
+                                                            },
+                                                            "state_change_time": {},
+                                                            "state": {"volume": {
+                                                                        "is_muted": false,
+                                                                        "current_volume": 80
+                                                            }}
+                                                }
+                                    ],
+                                    "device_info": {
+                                                "device_model_id": "Xiaomi.oneday.MIBOX4",
+                                                "model": "MIBOX4"
+                                    },
+                                    "create_time": {
+                                                "seconds": 1627689463,
+                                                "nanos": 648537000
+                                    },
+                                    "creator_emails": ["janashraf2015@gmail.com"],
+                                    "agent_device_names": {
+                                                "default_names": ["Android TV"],
+                                                "name": "MIBOX4"
+                                    },
+                                    "type": "action.devices.types.TV",
+                                    "supported_traits": [
+                                                "action.devices.traits.TransportControl",
+                                                "action.devices.traits.Assistant",
+                                                "action.devices.traits.MediaInitiation",
+                                                "action.devices.traits.OnOff",
+                                                "action.devices.traits.Toggles",
+                                                "action.devices.traits.AppSelector",
+                                                "action.devices.traits.InputSelector",
+                                                "action.devices.traits.Volume",
+                                                "action.devices.traits.RemoteDucking",
+                                                "action.devices.traits.Cast"
+                                    ]
+                        }
+            ]
+}
+    ]
+}
